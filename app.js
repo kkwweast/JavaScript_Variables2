@@ -1,5 +1,5 @@
 
-"Follow the steps in the README.md file to complete the exercises:\n==========\n"
+  "Follow the steps in the README.md file to complete the exercises:\n==========\n"
 
 
 
@@ -33,4 +33,14 @@ Let pageCount = 722;
 let bookMark = 456;
 let hasRead = true;
 
-console.log ('${title} by ${author} is ${pageCount} pages long. Your
+console.log ('${title} by ${author} is ${pageCount} pages long. Your last bookmark qas page ${bookmark}).
+
+);
+
+
+
+
+
+
+
+
